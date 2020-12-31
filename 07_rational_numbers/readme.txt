@@ -1,0 +1,1 @@
+Create a class called Rational for performing arithmetic with fractions. The class represents a fraction by storing the numerator and the denominator as integers, without actually dividing them. The class should support the basic mathematical operation (addition, subtraction, multiplication, and division).
